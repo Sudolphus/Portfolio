@@ -40,3 +40,9 @@ body {
 .gold_text {
   color: gold;
 }
+
+.portrait {
+  float: right;
+  max-width: 300px;
+  max-height: 300px;
+}
