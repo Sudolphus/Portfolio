@@ -13,6 +13,7 @@ _This project is intended to serve as a landing page for a github portfolio. The
 * _The repository can be downloaded directly from [Github](https://github.com/Sudolphus/Portfolio), or cloned directly through git:_<br>
  `git clone https://github.com/Sudolphus/Portfolio`
 * _index.html can be opened in your browser of choice; all testing was done in Chrome._
+* _The site is also viewable on GH-Pages at https://sudolphus.github.io/Portfolio/_
 
 ## Known Bugs
 
