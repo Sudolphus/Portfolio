@@ -16,7 +16,7 @@ body {
   border-bottom: 1px solid #FFFFFF;
 }
 
-.section > ol {
+.section > ol, ul {
   font-size: 16px;
 }
 
