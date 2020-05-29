@@ -1,6 +1,10 @@
 body {
-  background-color: #000000;
-  color: #FFFFFF;
+  background-color: #DDFFF7;
+  color: #3A3335;
+}
+
+a {
+  color: #F0544F;
 }
 
 .intro_box {
