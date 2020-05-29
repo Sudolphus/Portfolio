@@ -43,6 +43,7 @@ a {
 .avatar {
   float: left;
   margin-right: 50px;
+  border: 1px solid black;
 }
 
 .gold_text {
@@ -53,4 +54,6 @@ a {
   float: right;
   max-width: 300px;
   max-height: 300px;
+  margin-left: 10px;
+  border: 1px solid black;
 }
