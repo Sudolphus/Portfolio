@@ -3,6 +3,11 @@ body {
   color: #FFFFFF;
 }
 
+.jumbotron_custom {
+  background-color: inherit;
+  color: inherit;
+}
+
 .text_box {
   font-family: sans-serif;
   font-size: 20px;
@@ -12,6 +17,7 @@ body {
   text-align: center;
 }
 
-.float_left {
+.avatar {
   float: left;
+  margin-right: 5px;
 }
