@@ -3,6 +3,11 @@ body {
   color: #FFFFFF;
 }
 
+.text_box {
+  font-family: sans-serif;
+  font-size: 20px;
+}
+
 .center {
   text-align: center;
 }
