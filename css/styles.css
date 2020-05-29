@@ -7,6 +7,10 @@ a {
   color: #F0544F;
 }
 
+.page-header-custom {
+  border-bottom-color: #3A3335;
+}
+
 .intro_box {
   margin-left: 50px;
   padding: 5px;
@@ -25,7 +29,7 @@ a {
 }
 
 .section > h3 {
-  border-bottom: 1px solid #FFFFFF;
+  border-bottom: 1px solid #3A3335;
 }
 
 .section > ol, ul, p {
