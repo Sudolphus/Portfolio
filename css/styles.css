@@ -3,9 +3,17 @@ body {
   color: #FFFFFF;
 }
 
+div > ol {
+  font-size: 16px;
+}
+
 .jumbotron_custom {
   background-color: inherit;
   color: inherit;
+}
+
+.section_head {
+  border-bottom: 1px solid #FFFFFF;
 }
 
 .text_box {
