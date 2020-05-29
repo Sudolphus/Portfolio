@@ -3,6 +3,9 @@ body {
   color: #FFFFFF;
 }
 
+a {
+  color: inherit;
+}
 .intro_box {
   margin-left: 50px;
   padding: 5px;
