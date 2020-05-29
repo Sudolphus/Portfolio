@@ -12,6 +12,10 @@ body {
   height: 150px;
 }
 
+.repository_link_box {
+  padding-top: 50px;
+}
+
 .section {
   margin-bottom: 10px;
 }
