@@ -4,16 +4,11 @@ body {
 }
 
 .intro_box {
-  border: 5px solid #FFFFFF;
   margin-left: 50px;
   padding: 5px;
   font-size: 20px;
-  font-family: sans-serif
-}
-
-.jumbotron_custom {
-  background-color: inherit;
-  color: inherit;
+  font-family: sans-serif;
+  text-align: center;
 }
 
 .section {
