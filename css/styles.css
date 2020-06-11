@@ -3,14 +3,22 @@ body {
   color: #3A3335;
 }
 
-a {
+a, .clickable {
   color: #F0544F;
+  text-decoration: underline;
+}
+
+.well {
+  background-color: inherit;
+}
+
+#fullList {
+  display: none;
 }
 
 ol > p {
   padding-top: 2px;
   margin-left: 10px;
-  border-bottom: 1px solid #3A3335;
 }
 
 .page-header-custom {
